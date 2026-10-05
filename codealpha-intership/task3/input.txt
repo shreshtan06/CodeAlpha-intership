@@ -1,0 +1,4 @@
+Contact us at support@example.com or hello@company.org.
+    For updates, email admin@sample.io.
+    Duplicate addresses: hello@example.com
+    
